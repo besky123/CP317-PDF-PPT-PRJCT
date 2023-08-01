@@ -8,8 +8,8 @@ Before you begin, ensure you have met the following requirements:
 
 You have installed Python 3.7 or later.
 You have installed the necessary Python packages. These include:
-pdfplumber: Install with pip install pdfplumber
-python-pptx: Install with pip install python-pptx
+  pdfplumber: Install with pip install pdfplumber
+  python-pptx: Install with pip install python-pptx
 tkinter (usually comes with Python, no need to install separately)
 PyPDF2: Install with pip install PyPDF2
 Installing the Application
